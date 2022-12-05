@@ -4,7 +4,7 @@
     "description": "30+ Advanced Virtual Tools, made easily accessible and applicable for non-technical users",
     "filler": {
       "type": "image",
-      "url": "/assets/imgs/service-icon-selfserve.svg"
+      "url": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-selfserve.svg"
     }
   },
   {
@@ -12,7 +12,7 @@
     "description": "We consult on everything Web3, including NFTs, Metaverses, Blockchain implementation, Web2 Migration, etc.",
     "filler": {
       "type": "image",
-      "url": "/assets/imgs/service-icon-web3.svg"
+      "url": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-web3.svg"
     }
   },
   {
@@ -20,7 +20,7 @@
     "description": "Build your own Metaverse, with easy to use tooling. Or consult our builders, and have it done for you",
     "filler": {
       "type": "image",
-      "url": "/assets/imgs/service-icon-metaverse.svg"
+      "url": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-metaverse.svg"
     }
   }
 ]

@@ -4,7 +4,7 @@
   "image": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/hero-picture.png",
   "buttons": {
     "primary": {
-      "text": "Enter the Virtual Pro Galaxy",
+      "text": "Enter the Virtual Pro Galaxy™️",
       "action": "link",
       "link": "#"
     },
