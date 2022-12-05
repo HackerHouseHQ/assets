@@ -1,12 +1,13 @@
 {
-  "title": "Hacker House comes first",
+  "title": "Community starts with Hacker House",
   "description": "Metaverse collaborative spaces, providing advanced technology, in the Virtual Pro Galaxy™ and physical collaborative units, funded by the HHHQ DAO.",
   "image": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/hero-picture.png",
   "buttons": {
     "primary": {
       "text": "Enter the Virtual Pro Galaxy™️",
-      "action": "link",
-      "link": "#"
+      "action": "logo-link",
+      "link": "#",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/logos/vpg-square.png"
     },
     "secondary": {
       "text": "Learn more",
