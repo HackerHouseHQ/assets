@@ -1,0 +1,44 @@
+{
+  "copyright": {
+    "year": 2022,
+    "company": "Hacker House HQ"
+  },
+  "menu": [
+    {
+      "title": "our company",
+      "items": [
+        { "title": "Team", "href": "#" },
+        { "title": "Business", "href": "#" },
+        { "title": "Partners", "href": "#" },
+        { "title": "Roadmap", "href": "#" }
+      ]
+    },
+    {
+      "title": "resources",
+      "items": [
+        { "title": "NFTs", "href": "#" },
+        { "title": "3d websites", "href": "#" },
+        { "title": "Metaverse", "href": "#" },
+        { "title": "help desk", "href": "#" }
+      ]
+    },
+    {
+      "title": "legal",
+      "items": [
+        { "title": "Legal", "href": "#" },
+        { "title": "Terms", "href": "#" },
+        { "title": "Cookie policy", "href": "#" },
+        { "title": "Audit", "href": "#" }
+      ]
+    },
+    {
+      "title": "developers",
+      "items": [
+        { "title": "API", "href": "#" },
+        { "title": "Get verified", "href": "#" },
+        { "title": "HHHQ", "href": "#" },
+        { "title": "White paper", "href": "#" }
+      ]
+    }
+  ]
+}
