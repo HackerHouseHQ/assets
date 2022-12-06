@@ -1,10 +1,16 @@
 [
   {
+    "name": "Virtual Pro Galaxy",
+    "description": "",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/virtual-pro-galaxy/logo-square.png"
+  },
+  {
     "name": "AFADAO",
     "description": "Exercitation anim irure laborum ut deserunt ullamco. Est esse amet sint sint pariatur qui proident fugiat."
   },
   {
-    "name": "Black History DAO"
+    "name": "Black History DAO",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/black-history-dao/logo.jpg"
   },
   {
     "name": "Bless Foundation"
@@ -19,19 +25,22 @@
     "name": "CryptoSwarm AI"
   },
   {
-    "name": "DeFiOurs"
+    "name": "DeFiOurs",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/defi-ours/logo.png"
   },
   {
     "name": "Dreamverse"
   },
   {
-    "name": "FrostyWeb3"
+    "name": "FrostyWeb3",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/frosty-web3/logo.png"
   },
   {
     "name": "Gold Badge"
   },
   {
-    "name": "HBCU Made"
+    "name": "HBCU Made",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/hbcu-made/logo.jpg"
   },
   {
     "name": "HoyaHacks"
@@ -49,16 +58,19 @@
     "name": "Redbird"
   },
   {
-    "name": "Rektify AI"
+    "name": "Rektify AI",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/rektify-ai/logo_03-transparent.png"
   },
   {
-    "name": "Rosser NFT Gallery"
+    "name": "Rosser NFT Gallery",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/rosser-nft-gallery/logo_01-128x128.png"
   },
   {
     "name": "Sky Pegasus"
   },
   {
-    "name": "Thee NFT Group"
+    "name": "The NFT Group",
+    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/the-nft-group/logo-01.png"
   },
   {
     "name": "UpTopSearch"
