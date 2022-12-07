@@ -6,9 +6,8 @@
   "buttons": {
     "primary": {
       "text": "Enter the Virtual Pro Galaxy™️",
-      "action": "logo-link",
-      "link": "#",
-      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/virtual-pro-galaxy/logo-square.png"
+      "action": "link",
+      "link": "#"
     },
     "secondary": {
       "text": "Learn more",
