@@ -1,26 +1,21 @@
-[
-  {
-    "name": "Self-serve at our virtual one-stop shop",
-    "description": "30+ Advanced Virtual Tools, made easily accessible and applicable for non-technical users",
-    "filler": {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-selfserve.svg"
+{
+  "title": "Products & Services",
+  "carousel": true,
+  "items": [
+    {
+      "name": "Self-serve at our virtual one-stop shop",
+      "description": "30+ Advanced Virtual Tools, made easily accessible and applicable for non-technical users",
+      "image": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-selfserve.svg"
+    },
+    {
+      "name": "Web3 Consultation",
+      "description": "We consult on everything Web3, including NFTs, Metaverses, Blockchain implementation, Web2 Migration, etc.",
+      "image": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-web3.svg"
+    },
+    {
+      "name": "Design your own Metaverse",
+      "description": "Build your own Metaverse, with easy to use tooling. Or consult our builders, and have it done for you",
+      "image": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-metaverse.svg"
     }
-  },
-  {
-    "name": "Web3 Consultation",
-    "description": "We consult on everything Web3, including NFTs, Metaverses, Blockchain implementation, Web2 Migration, etc.",
-    "filler": {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-web3.svg"
-    }
-  },
-  {
-    "name": "Design your own Metaverse",
-    "description": "Build your own Metaverse, with easy to use tooling. Or consult our builders, and have it done for you",
-    "filler": {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/landing-page/images/service-icon-metaverse.svg"
-    }
-  }
-]
+  ]
+}

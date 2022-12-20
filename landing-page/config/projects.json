@@ -1,81 +1,87 @@
-[
-  {
-    "name": "Virtual Pro Galaxy",
-    "description": "",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/virtual-pro-galaxy/logo-square-white-128x128.png"
-  },
-  {
-    "name": "AFADAO",
-    "description": "Exercitation anim irure laborum ut deserunt ullamco. Est esse amet sint sint pariatur qui proident fugiat."
-  },
-  {
-    "name": "Black History DAO",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/black-history-dao/logo.jpg"
-  },
-  {
-    "name": "Bless Foundation"
-  },
-  {
-    "name": "Blockchain Atlanta"
-  },
-  {
-    "name": "Code Black ESPORTS"
-  },
-  {
-    "name": "CryptoSwarm AI"
-  },
-  {
-    "name": "DeFiOurs",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/defi-ours/logo.png"
-  },
-  {
-    "name": "Dreamverse"
-  },
-  {
-    "name": "FrostyWeb3",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/frosty-web3/logo.png"
-  },
-  {
-    "name": "Gold Badge"
-  },
-  {
-    "name": "HBCU Made",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/hbcu-made/logo.jpg"
-  },
-  {
-    "name": "HoyaHacks"
-  },
-  {
-    "name": "Lifestyle Liaison"
-  },
-  {
-    "name": "Meta Concerts"
-  },
-  {
-    "name": "Matrix Money"
-  },
-  {
-    "name": "Redbird"
-  },
-  {
-    "name": "Rektify AI",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/rektify-ai/logo_03.jpg"
-  },
-  {
-    "name": "Rosser NFT Gallery",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/rosser-nft-gallery/logo_01-128x128.png"
-  },
-  {
-    "name": "Sky Pegasus"
-  },
-  {
-    "name": "The NFT Group",
-    "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/the-nft-group/logo_01.png"
-  },
-  {
-    "name": "UpTopSearch"
-  },
-  {
-    "name": "Virtual Professionals"
-  }
-]
+{
+  "title": "Our partners",
+  "withCaption": false,
+  "grayscale": false,
+  "carousel": true,
+  "clients": [
+    {
+      "name": "Virtual Pro Galaxy",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/virtual-pro-galaxy/logo-square-white-128x128.png"
+    },
+    {
+      "name": "AFADAO",
+      "description": "Exercitation anim irure laborum ut deserunt ullamco. Est esse amet sint sint pariatur qui proident fugiat."
+    },
+    {
+      "name": "Black History DAO",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/black-history-dao/logo.jpg"
+    },
+    {
+      "name": "Bless Foundation"
+    },
+    {
+      "name": "Blockchain Atlanta"
+    },
+    {
+      "name": "Code Black ESPORTS"
+    },
+    {
+      "name": "CryptoSwarm AI"
+    },
+    {
+      "name": "DeFiOurs",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/defi-ours/logo.png"
+    },
+    {
+      "name": "Dreamverse"
+    },
+    {
+      "name": "FrostyWeb3",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/frosty-web3/logo.png"
+    },
+    {
+      "name": "Gold Badge"
+    },
+    {
+      "name": "HBCU Made",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/hbcu-made/logo.jpg"
+    },
+    {
+      "name": "HoyaHacks"
+    },
+    {
+      "name": "Lifestyle Liaison"
+    },
+    {
+      "name": "Meta Concerts"
+    },
+    {
+      "name": "Matrix Money"
+    },
+    {
+      "name": "Redbird"
+    },
+    {
+      "name": "Rektify AI",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/rektify-ai/logo_03.jpg"
+    },
+    {
+      "name": "Rosser NFT Gallery",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/rosser-nft-gallery/logo_01-128x128.png"
+    },
+    {
+      "name": "Sky Pegasus"
+    },
+    {
+      "name": "The NFT Group",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/the-nft-group/logo_01.png"
+    },
+    {
+      "name": "UpTopSearch"
+    },
+    {
+      "name": "Virtual Professionals"
+    }
+  ]
+}

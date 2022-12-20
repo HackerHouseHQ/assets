@@ -1,85 +1,90 @@
-[
-  {
-    "name": "Bam Owoseni",
-    "title": "Chief Executive Officer",
-    "linkedin": "https://www.linkedin.com/in/bambammb/",
-    "twitter": "https://hhhq.io",
-    "website": "https://hhhq.io"
-  },
-  {
-    "name": "Joel Omewah",
-    "title": "Chief of Intelligence"
-  },
-  {
-    "name": "Jeff St. Louis",
-    "title": "Chief of Technology"
-  },
-  {
-    "name": "Daniele Calcinai",
-    "title": "Chief of Internal Systems"
-  },
-  {
-    "name": "Komolafe Victor",
-    "title": "Chief of Creative Direction"
-  },
-  {
-    "name": "Donny Ruinard",
-    "title": "Chief of Education"
-  },
-  {
-    "name": "Angel Manzueta",
-    "title": "Chief of Education"
-  },
-  {
-    "name": "Redbird",
-    "title": " Chief of Media"
-  },
-  {
-    "name": "Kevin Momplaisir",
-    "title": "Chief of Gaming"
-  },
-  {
-    "name": "Jasmine Brunson",
-    "title": "Chief of Blockchain Security"
-  },
-  {
-    "name": "Will Bureleson",
-    "title": "Chief of Growth"
-  },
-  {
-    "name": "Vladyslav Mykhalchuk",
-    "title": "Chief of Internal Systems"
-  },
-  {
-    "name": "Shaked Nehmadi",
-    "title": "Chief of Robotics"
-  },
-  {
-    "name": "Héctor Vargas",
-    "title": "Chief of Gaming"
-  },
-  {
-    "name": "Mouad Handaji",
-    "title": "Chief of Automation"
-  },
-  {
-    "name": "Asher DeMadet",
-    "title": "Chief of Human Resources"
-  },
-  {
-    "name": "Josh Turner",
-    "title": "Chief of Gaming"
-  },
-  {
-    "name": "Matt Bellantoni",
-    "title": "Chief of Security"
-  },
-  {
-    "name": "Malakai Bless",
-    "title": "Chief of Operations"
-  },
-  {
-    "name": "Usama Abid",
-    "title": "Chief of Artificial Intelligence"
-  }
-]
+{
+  "title": "Our team",
+  "alwaysShowPictures": false,
+  "alwaysShowLinks": true,
+  "team": [
+    {
+      "name": "Bam Owoseni",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/bambammb/",
+      "twitter": "https://hhhq.io",
+      "website": "https://hhhq.io"
+    },
+    {
+      "name": "Joel Omewah",
+      "title": "Chief of Intelligence"
+    },
+    {
+      "name": "Jeff St. Louis",
+      "title": "Chief of Technology"
+    },
+    {
+      "name": "Daniele Calcinai",
+      "title": "Chief of Internal Systems"
+    },
+    {
+      "name": "Komolafe Victor",
+      "title": "Chief of Creative Direction"
+    },
+    {
+      "name": "Donny Ruinard",
+      "title": "Chief of Education"
+    },
+    {
+      "name": "Angel Manzueta",
+      "title": "Chief of Education"
+    },
+    {
+      "name": "Redbird",
+      "title": " Chief of Media"
+    },
+    {
+      "name": "Kevin Momplaisir",
+      "title": "Chief of Gaming"
+    },
+    {
+      "name": "Jasmine Brunson",
+      "title": "Chief of Blockchain Security"
+    },
+    {
+      "name": "Will Bureleson",
+      "title": "Chief of Growth"
+    },
+    {
+      "name": "Vladyslav Mykhalchuk",
+      "title": "Chief of Internal Systems"
+    },
+    {
+      "name": "Shaked Nehmadi",
+      "title": "Chief of Robotics"
+    },
+    {
+      "name": "Héctor Vargas",
+      "title": "Chief of Gaming"
+    },
+    {
+      "name": "Mouad Handaji",
+      "title": "Chief of Automation"
+    },
+    {
+      "name": "Asher DeMadet",
+      "title": "Chief of Human Resources"
+    },
+    {
+      "name": "Josh Turner",
+      "title": "Chief of Gaming"
+    },
+    {
+      "name": "Matt Bellantoni",
+      "title": "Chief of Security"
+    },
+    {
+      "name": "Malakai Bless",
+      "title": "Chief of Operations"
+    },
+    {
+      "name": "Usama Abid",
+      "title": "Chief of Artificial Intelligence"
+    }
+  ]
+}

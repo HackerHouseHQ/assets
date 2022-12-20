@@ -7,12 +7,12 @@
     "primary": {
       "text": "Enter the Virtual Pro Galaxy™️",
       "action": "link",
-      "link": "#"
+      "href": "#"
     },
     "secondary": {
       "text": "Learn more",
       "action": "open-video",
-      "link": "https://youtu.be/NVsxBXt84b8?muted=1&autoplay=1"
+      "href": "https://youtu.be/NVsxBXt84b8?muted=1&autoplay=1"
     }
   }
 }

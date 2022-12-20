@@ -7,37 +7,37 @@
     {
       "title": "our company",
       "items": [
-        { "title": "Team", "href": "#" },
-        { "title": "Business", "href": "#" },
-        { "title": "Partners", "href": "#" },
-        { "title": "Roadmap", "href": "#" }
+        { "text": "Team", "href": "#" },
+        { "text": "Business", "href": "#" },
+        { "text": "Partners", "href": "#" },
+        { "text": "Roadmap", "href": "#" }
       ]
     },
     {
       "title": "resources",
       "items": [
-        { "title": "NFTs", "href": "#" },
-        { "title": "3d websites", "href": "#" },
-        { "title": "Metaverse", "href": "#" },
-        { "title": "help desk", "href": "#" }
+        { "text": "NFTs", "href": "#" },
+        { "text": "3d websites", "href": "#" },
+        { "text": "Metaverse", "href": "#" },
+        { "text": "help desk", "href": "#" }
       ]
     },
     {
       "title": "legal",
       "items": [
-        { "title": "Legal", "href": "#" },
-        { "title": "Terms", "href": "#" },
-        { "title": "Cookie policy", "href": "#" },
-        { "title": "Audit", "href": "#" }
+        { "text": "Legal", "href": "#" },
+        { "text": "Terms", "href": "#" },
+        { "text": "Cookie policy", "href": "#" },
+        { "text": "Audit", "href": "#" }
       ]
     },
     {
       "title": "developers",
       "items": [
-        { "title": "API", "href": "#" },
-        { "title": "Get verified", "href": "#" },
-        { "title": "HHHQ", "href": "#" },
-        { "title": "White paper", "href": "#" }
+        { "text": "API", "href": "#" },
+        { "text": "Get verified", "href": "#" },
+        { "text": "HHHQ", "href": "#" },
+        { "text": "White paper", "href": "#" }
       ]
     }
   ]
