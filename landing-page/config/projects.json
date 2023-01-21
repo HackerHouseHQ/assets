@@ -5,13 +5,26 @@
   "carousel": true,
   "clients": [
     {
-      "name": "Virtual Pro Galaxy",
+      "name": "Virtual Professionals",
       "description": "",
-      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/virtual-pro-galaxy/logo-square-white-128x128.png"
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/virtual-pro-galaxy/logo-square-white-128x128.png",
+      "url": "https://virtualprogalaxy.com"
+    },
+    {
+      "name": "Learn and Earn",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/learn-and-earn/logosquare-128x128.png"
+    },
+    {
+      "name": "ICGNU",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/icgnu/logo-square-128x128.png"
+    },
+    {
+      "name": "Tech With Soul",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/tech-with-soul/logo-square-128x128.png"
     },
     {
       "name": "AFADAO",
-      "description": "Exercitation anim irure laborum ut deserunt ullamco. Est esse amet sint sint pariatur qui proident fugiat."
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/afadao/logo-square-128x128.png"
     },
     {
       "name": "Black History DAO",
@@ -27,7 +40,8 @@
       "name": "Code Black ESPORTS"
     },
     {
-      "name": "CryptoSwarm AI"
+      "name": "CryptoSwarm AI",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/cryptoswarm-ai/logo-square-128x128.png"
     },
     {
       "name": "DeFiOurs",
@@ -78,10 +92,9 @@
       "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/the-nft-group/logo_01.png"
     },
     {
-      "name": "UpTopSearch"
-    },
-    {
-      "name": "Virtual Professionals"
+      "name": "UpTopSearch",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/uptop-search/logo-square-128x128.png"
+
     }
   ]
 }
