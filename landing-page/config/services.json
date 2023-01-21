@@ -21,6 +21,10 @@
     {
       "name":"Manage any Community",
       "description":"Create and manage your entire Discord server with the click of a button. Schedule and record meetings/events for your team, within any kind of community"
+    },
+    {
+      "name": "Organize or Participate in Hackathons",
+      "description": "Contact us to assist in organizing a Hackathon, or sign up for one of our upcoming events."
     }
   ]
 }
