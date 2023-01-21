@@ -48,6 +48,10 @@
       "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/defi-ours/logo.png"
     },
     {
+      "name": "Ministry of Culture"
+
+    },
+    {
       "name": "Dreamverse"
     },
     {
@@ -63,12 +67,14 @@
     },
     {
       "name": "HoyaHacks"
+
     },
     {
       "name": "Lifestyle Liaison"
     },
     {
-      "name": "Meta Concerts"
+      "name": "Meta Concerts",
+      "logo": "https://raw.githubusercontent.com/HackerHouseHQ/assets/main/logos/meta-concerts/logo_01-white-128x128.png"
     },
     {
       "name": "Matrix Money"
